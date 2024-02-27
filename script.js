@@ -1,7 +1,7 @@
 player=1;
 function runfn(element){
     if(winner = check()){
-        alert(winner + "Has A WINNER");
+        alert(winner + " Has A WINNER");
         location.reload();
     }
     if(player%2 !=0){
